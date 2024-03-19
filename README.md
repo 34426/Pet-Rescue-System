@@ -29,7 +29,6 @@
 
 ## 二、部分页面截图展示
 
-![img_2.png](img_2.png)
 
 ![img_3.png](imgs/img_3.png)
 
